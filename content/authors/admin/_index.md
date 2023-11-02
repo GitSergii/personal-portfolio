@@ -1,65 +1,64 @@
 ---
 # Display name
-title: 吳健雄
+title: Sergii Guliaiev
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sergii
+last_name: Guliaiev
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🇺🇦
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Marketing and Commercial Director
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Telecom and Retail Industries
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: With a 15-year journey in Telecom and Retail, I've led a 10M+ client base and driven over USD 400M+ in revenue. My passion for pioneering B2C and B2B strategies has guided dedicated teams to consistently exceed market expectations. Specializing in diverse marketing facets, including strategy, digital and offline marketing, CRM, pricing, and business intelligence, I'm on a mission to turn challenges into opportunities and maintain my career's fervor from day one.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data-Driven Decision-Making
+  - Consumer-Centric Strategy
+  - Team Leadership and Development
+  - Marketing Technology and Tools
+  - AI and Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MBA in IT Management
+      institution: International Institute of Management (MIM-Kyiv)
+      year: 2013
+    - course: MEng in Electrical Engineering
+      institution: National Aviation University
+      year: 2002
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
+      - name: Digital marketing, Google Analytics, Google Ads, Meta Ads
         description: ''
         percent: 100
-        icon: chart-line
+        icon: rectangle-ad
+        icon_pack: fas
+      - name: Business Intelligence, Looker, Power BI, QlikView
+        description: ''
+        percent: 100
+        icon: magnifying-glass-chart
         icon_pack: fas
       - name: SQL
         description: ''
@@ -72,18 +71,18 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 70
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Running
         description: ''
         percent: 100
-        icon: cat
+        icon: person-running
         icon_pack: fas
-      - name: Photography
+      - name: Reading
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: book-open-reader
         icon_pack: fas
 
 # Social/Academic Networking
@@ -95,30 +94,27 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    icon_pack: fas
+    link: https://twitter.com/SergeyGulyaev
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    icon_pack: fas
+    link: https://github.com/gitsergii
   - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    icon_pack: fas
+    link: https://www.linkedin.com/in/sergiiguliaiev
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
+  - icon: file
+    icon_pack: fas
     link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sergii Guliaiev is a seasoned professional with a substantial background in the Telecom and Retail sectors, bringing a wealth of experience to the realms of marketing and business strategy. His career journey has been distinguished by outstanding accomplishments and a fervent commitment to data-driven decision-making, consumer-centric strategies, and effective team leadership.
 {style="text-align: justify;"}

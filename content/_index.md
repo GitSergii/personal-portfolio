@@ -62,27 +62,31 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Chief Marketing Officer
+          company: NOVUS UKRAINE LLC
+          company_url: novus.online
+          company_logo: novus
+          location: Ukraine
+          date_start: '2018-08-01'
+          date_end: '2023-02-24'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
+              Led a 30+ member marketing team, overseeing diverse functions from digital marketing to business intelligence, to execute a growth strategy that increased GMV by 16.5% and raised NPS from 46% to 54% for a retailer handling over USD 400M GMV.
+        - title: Chief Commercial Officer B2B
+          company: Lifecell LLC
+          company_url: lifecell.ua
+          company_logo: lifecell
+          location: Ukraine
           date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_end: '2017-07-04'
+          description: Led an 80+ member team across marketing, product, and sales, achieving 25% YoY revenue growth, overseeing 16K+ accounts, and successfully fostering sales teams, while driving product innovation for a transition to a multi-service provider.
+        - title: Marketing Director
+          company: Lifecell LLC
+          company_url: lifecell.ua
+          company_logo: lifecell
+          location: Ukraine
+          date_start: '2014-02-01'
+          date_end: '2015-12-31'
+          description: Led a 65-member marketing team across various functions, achieving substantial revenue growth, a market share increase from 14% in 2013 to 16% in 2015, expanding the customer base to over 10 million, boosting revenue by 10.5% to over USD 340 million, and EBITDA by 20% YoY, while orchestrating the successful launch of 3G Internet products and spearheading a rebranding initiative that introduced the new LIFECELL brand to the market.
     design:
       columns: '2'
   - block: accomplishments
@@ -234,41 +238,43 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+      #email: test@example.org
+      #phone: 888 888 88 88
+      #appointment_url: 'https://calendly.com'
+      #address:
+        #street: 450 Serra Mall
+        #city: Stanford
+        #region: CA
+        #postcode: '94305'
+        #country: United States
+        #country_code: US
+      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      #office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
+      #contact_links:
+      #  - icon: twitter
+      #  - icon: twitter
+      #  - icon: twitter
+       #   icon_pack: fab
+        #  name: DM Me
+         # link: 'https://twitter.com/Twitter'
+        #- icon: skype
+         # icon_pack: fab
+          #name: Skype Me
+          #link: 'skype:echo123?call'
+        #- icon: video
+         # icon_pack: fas
+          #name: Zoom Me
+          #link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
+      #autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+      #form:
+       # provider: netlify
+        #formspree:
+         # id:
+        #netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
