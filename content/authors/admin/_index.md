@@ -29,11 +29,13 @@ bio: With a 15-year journey in Telecom and Retail, I've led a 10M+ client base a
 
 # Interests to show in About widget
 interests:
-  - Data-Driven Decision-Making
-  - Consumer-Centric Strategy
-  - Team Leadership
-  - Marketing Tools
-  - AI and Machine Learning
+  - Team leadership
+  - Business Analysis & Insights
+  - CRM, customer retention
+  - Marketing strategy
+  - Digital & offline marketing
+  - Product management
+  - Pricing
 
 # Education to show in About widget
 education:
