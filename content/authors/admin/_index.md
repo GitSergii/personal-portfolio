@@ -93,15 +93,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: square-x-twitter
-    icon_pack: fab
-    link: https://twitter.com/SergeyGulyaev
   - icon: square-github
     icon_pack: fab
     link: https://github.com/gitsergii
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sergiiguliaiev
+  - icon: square-x-twitter
+    icon_pack: fab
+    link: https://twitter.com/SergeyGulyaev
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
