@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Sergii Guliaiev
+title: Sergii G
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Sergii
-last_name: Guliaiev
+last_name: G
 
 # Status emoji
 status:
@@ -116,5 +116,5 @@ social:
 highlight_name: true
 ---
 
-Sergii Guliaiev is a seasoned professional with a substantial background in the Telecom and Retail sectors, bringing a wealth of experience to the realms of marketing and business strategy. His career journey has been distinguished by outstanding accomplishments and a fervent commitment to data-driven decision-making, consumer-centric strategies, and effective team leadership.
+Sergii G is a seasoned professional with a substantial background in the Telecom and Retail sectors, bringing a wealth of experience to the realms of marketing and business strategy. His career journey has been distinguished by outstanding accomplishments and a fervent commitment to data-driven decision-making, consumer-centric strategies, and effective team leadership.
 {style="text-align: justify;"}
