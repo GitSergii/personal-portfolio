@@ -31,8 +31,8 @@ bio: With a 15-year journey in Telecom and Retail, I've led a 10M+ client base a
 interests:
   - Data-Driven Decision-Making
   - Consumer-Centric Strategy
-  - Team Leadership and Development
-  - Marketing Technology and Tools
+  - Team Leadership
+  - Marketing Tools
   - AI and Machine Learning
 
 # Education to show in About widget
@@ -50,7 +50,7 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Digital marketing, Google Analytics, Google Ads, Meta Ads
+      - name: Digital marketing, GA, Google Ads, Meta Ads
         description: ''
         percent: 100
         icon: rectangle-ad
@@ -62,7 +62,7 @@ skills:
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 60
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -96,9 +96,6 @@ social:
   - icon: square-x-twitter
     icon_pack: fab
     link: https://twitter.com/SergeyGulyaev
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: square-github
     icon_pack: fab
     link: https://github.com/gitsergii
