@@ -99,7 +99,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sergiiguliaiev
-  - icon: square-x-twitter
+  - icon: square-twitter
     icon_pack: fab
     link: https://twitter.com/SergeyGulyaev
   # Link to a PDF of your resume/CV.
