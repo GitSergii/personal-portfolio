@@ -11,7 +11,7 @@ last_name: Guliaiev
 
 # Status emoji
 status:
-  icon: 🇺🇦
+  icon: 🇺
 
 # Is this the primary user of the site?
 superuser: true
@@ -93,17 +93,17 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fas
+  - icon: square-x-twitter
+    icon_pack: fab
     link: https://twitter.com/SergeyGulyaev
     label: Follow me on Twitter
     display:
       header: true
-  - icon: github
-    icon_pack: fas
+  - icon: square-github
+    icon_pack: fab
     link: https://github.com/gitsergii
   - icon: linkedin
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.linkedin.com/in/sergiiguliaiev
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
