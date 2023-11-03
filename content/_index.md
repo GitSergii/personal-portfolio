@@ -64,7 +64,7 @@ sections:
       items:
         - title: Chief Marketing Officer
           company: NOVUS UKRAINE LLC
-          company_url: https://novus.online
+          company_url: https://novus.online/en
           company_logo: novus
           location: Ukraine
           date_start: '2018-08-01'
@@ -73,7 +73,7 @@ sections:
               Led a 30+ member marketing team, overseeing diverse functions from digital marketing to business intelligence, to execute a growth strategy that increased GMV by 16.5% and raised NPS from 46% to 54% for a retailer handling over USD 400M GMV.
         - title: Chief Commercial Officer B2B
           company: Lifecell LLC
-          company_url: https://lifecell.ua
+          company_url: https://www.lifecell.ua/en/
           company_logo: lifecell
           location: Ukraine
           date_start: '2016-01-01'
@@ -81,7 +81,7 @@ sections:
           description: Led an 80+ member team across marketing, product, and sales, achieving 25% YoY revenue growth, overseeing 16K+ accounts, and successfully fostering sales teams, while driving product innovation for a transition to a multi-service provider.
         - title: Marketing Director
           company: Lifecell LLC
-          company_url: https://lifecell.ua
+          company_url: https://www.lifecell.ua/en/
           company_logo: lifecell
           location: Ukraine
           date_start: '2014-02-01'
