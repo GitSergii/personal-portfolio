@@ -2,8 +2,8 @@
 title: 'CRM Implementation and Marketing Automation' 
 summary: 'A project that showcases how an introduction of a CRM system and automation of the customer lifecycle at NOVUS.'
 tags:
-Marketing
-CRM
+  - Marketing
+  - CRM
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
