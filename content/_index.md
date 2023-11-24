@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Hi there! 👋
+      title: Hey there! 👋
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -172,8 +172,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Marketing
+          tag: Marketing
+        - name: Sales
+          tag: Sales
+        - name: CRM
+          tag: CRM
         - name: Other
           tag: Demo
     design:
@@ -236,7 +240,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-       ''
+      Let's get in touch 🤝
       # Contact (add or remove contact options as necessary)
       #email: test@example.org
       #phone: 888 888 88 88
