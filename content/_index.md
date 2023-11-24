@@ -237,8 +237,8 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
-      subtitle: Let's get in touch 🤝
+      title: Contact 🤝
+      subtitle: ''
       text: ''
       # Contact (add or remove contact options as necessary)
       #email: test@example.org
