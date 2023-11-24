@@ -238,10 +238,8 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-      'Let's get in touch 🤝'
-      
+      subtitle: Let's get in touch 🤝
+      text: ''
       # Contact (add or remove contact options as necessary)
       #email: test@example.org
       #phone: 888 888 88 88
