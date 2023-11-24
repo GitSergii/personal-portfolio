@@ -240,7 +240,8 @@ sections:
       title: Contact
       subtitle:
       text: |-
-      Let's get in touch 🤝
+      'Let's get in touch 🤝'
+      
       # Contact (add or remove contact options as necessary)
       #email: test@example.org
       #phone: 888 888 88 88
