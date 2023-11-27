@@ -91,7 +91,7 @@ skills:
         percent: 80
         icon: book-open-reader
         icon_pack: fas
-      - name: Scuba diving
+      - name: Snowboarding
         description: ''
         percent: 80
         icon: person-snowboarding
