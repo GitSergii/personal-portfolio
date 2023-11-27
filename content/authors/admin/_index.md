@@ -67,7 +67,7 @@ skills:
         percent: 70
         icon: database
         icon_pack: fas
-      - name: Salesforce, SAP Marketing Cloud, HubSpot, 6sense, Outreach, Braze
+      - name: Salesforce, SAP Marketing, HubSpot, Outreach, Braze
         description: ''
         percent: 100
         icon: group-arrows-rotate
@@ -94,8 +94,8 @@ skills:
       - name: Scuba diving
         description: ''
         percent: 80
-        icon: mask-snorkel
-        # icon_pack: 
+        icon: person-snowboarding
+        icon_pack: fas
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
