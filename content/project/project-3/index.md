@@ -2,6 +2,7 @@
 title: 'Rebranding from life:) to lifecell' 
 summary: 'Mobile operator life:), Turkcell’s Ukrainian subsidiary, changed brand to reflect technology leadership and serve customers with all the possibilities that real mobile internet experience offers.'
 tags:
+  - Marketing  
   - Branding
   - Marketing Communications
   - Retail Branding
