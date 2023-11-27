@@ -64,8 +64,13 @@ skills:
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 60
+        percent: 70
         icon: database
+        icon_pack: fas
+      - name: Salesforce, SAP Marketing Cloud, HubSpot, 6sense, Outreach, Braze
+        description: ''
+        percent: 100
+        icon: group-arrows-rotate
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -86,7 +91,11 @@ skills:
         percent: 80
         icon: book-open-reader
         icon_pack: fas
-
+      - name: Scuba diving
+        description: ''
+        percent: 80
+        icon: mask-snorkel
+        icon_pack: fas
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
