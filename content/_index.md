@@ -120,7 +120,7 @@ sections:
           organization_url: https://www.udemy.com/
           title: 'The Complete Digital Marketing Course'
           url: ''
-        certificate_url: https://www.udemy.com/certificate/UC-c475cb88-2a08-4ed4-9006-2ead50b3ef98
+        - certificate_url: https://www.udemy.com/certificate/UC-c475cb88-2a08-4ed4-9006-2ead50b3ef98
         date_end: ''
         date_start: '2022-04-11'
         description: ''
