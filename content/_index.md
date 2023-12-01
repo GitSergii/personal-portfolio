@@ -109,7 +109,7 @@ sections:
           organization: Udemy
           organization_logo: udemy
           organization_url: https://www.udemy.com/
-          title: LangChain- Develop LLM powered applications with LangChain
+          title: 'LangChain- Develop LLM powered applications with LangChain'
           url: ''
         - certificate_url: https://www.udemy.com/certificate/UC-21255ffb-22ae-4a35-85ed-00253f6aadbf
           date_end: ''
@@ -118,7 +118,7 @@ sections:
           organization: Udemy
           organization_logo: udemy
           organization_url: https://www.udemy.com/
-          title: The Complete Digital Marketing Course
+          title: 'The Complete Digital Marketing Course'
           url: ''
         certificate_url: https://www.udemy.com/certificate/UC-c475cb88-2a08-4ed4-9006-2ead50b3ef98
         date_end: ''
