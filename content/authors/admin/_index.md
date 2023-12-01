@@ -88,7 +88,7 @@ skills:
         icon_pack: fas
       - name: Reading
         description: ''
-        percent: 80
+        percent: 100
         icon: book-open-reader
         icon_pack: fas
       - name: Snowboarding
