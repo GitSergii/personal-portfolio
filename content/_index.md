@@ -110,22 +110,22 @@ sections:
           organization_url: https://www.udemy.com/
           title: LangChain- Develop LLM powered applications with LangChain
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.udemy.com/certificate/UC-21255ffb-22ae-4a35-85ed-00253f6aadbf
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          date_start: '2023-09-03'
+          description: Mastered Digital Marketing Strategy, Social Media Marketing, SEO, YouTube, Email, Facebook Marketing, Analytics & More.
+          organization: Udemy
+          organization_url: https://www.udemy.com/
+          title: The Complete Digital Marketing Course
           url: ''
+        # - certificate_url: https://www.datacamp.com
+        #   date_end: '2020-12-21'
+        #   date_start: '2020-07-01'
+        #   description: ''
+        #   organization: DataCamp
+        #   organization_url: https://www.datacamp.com
+        #   title: 'Object-Oriented Programming in R'
+        #   url: ''
     design:
       columns: '2'
   - block: collection
