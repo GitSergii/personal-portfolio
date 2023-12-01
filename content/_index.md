@@ -107,6 +107,7 @@ sections:
           date_start: '2023-11-03'
           description: ''
           organization: Udemy
+          organization_logo: udemy
           organization_url: https://www.udemy.com/
           title: LangChain- Develop LLM powered applications with LangChain
           url: ''
@@ -115,6 +116,7 @@ sections:
           date_start: '2023-09-03'
           description: Mastered Digital Marketing Strategy, Social Media Marketing, SEO, YouTube, Email, Facebook Marketing, Analytics & More.
           organization: Udemy
+          organization_logo: udemy
           organization_url: https://www.udemy.com/
           title: The Complete Digital Marketing Course
           url: ''
