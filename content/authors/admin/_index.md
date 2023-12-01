@@ -35,7 +35,7 @@ interests:
   - Marketing strategy
   - Digital & offline marketing
   - Product management
-  - Pricing
+  - Large language models
 
 # Education to show in About widget
 education:

@@ -107,27 +107,28 @@ sections:
           date_start: '2023-11-03'
           description: ''
           organization: Udemy
-          company_logo: udemy
+          organization_logo: udemy
           organization_url: https://www.udemy.com/
           title: LangChain- Develop LLM powered applications with LangChain
           url: ''
         - certificate_url: https://www.udemy.com/certificate/UC-21255ffb-22ae-4a35-85ed-00253f6aadbf
           date_end: ''
           date_start: '2023-09-03'
-          description: Mastered Digital Marketing Strategy, Social Media Marketing, SEO, YouTube, Email, Facebook Marketing, Analytics & More.
+          description: ''
           organization: Udemy
           organization_logo: udemy
           organization_url: https://www.udemy.com/
           title: The Complete Digital Marketing Course
           url: ''
-        # - certificate_url: https://www.datacamp.com
-        #   date_end: '2020-12-21'
-        #   date_start: '2020-07-01'
-        #   description: ''
-        #   organization: DataCamp
-        #   organization_url: https://www.datacamp.com
-        #   title: 'Object-Oriented Programming in R'
-        #   url: ''
+        certificate_url: https://www.udemy.com/certificate/UC-c475cb88-2a08-4ed4-9006-2ead50b3ef98
+        date_end: ''
+        date_start: '2022-04-11'
+        description: ''
+        organization: Udemy
+        organization_logo: udemy
+        organization_url: https://www.udemy.com/
+        title: 'Google Looker - LookML Developer'
+        url: ''
     design:
       columns: '2'
   - block: collection
