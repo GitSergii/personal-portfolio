@@ -92,7 +92,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Upgrades'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -121,14 +121,14 @@ sections:
           title: 'The Complete Digital Marketing Course'
           url: ''
         - certificate_url: https://www.udemy.com/certificate/UC-c475cb88-2a08-4ed4-9006-2ead50b3ef98
-        date_end: ''
-        date_start: '2022-04-11'
-        description: ''
-        organization: Udemy
-        organization_logo: udemy
-        organization_url: https://www.udemy.com/
-        title: 'Google Looker - LookML Developer'
-        url: ''
+          date_end: ''
+          date_start: '2022-04-11'
+          description: ''
+          organization: Udemy
+          organization_logo: udemy
+          organization_url: https://www.udemy.com/
+          title: 'Google Looker - LookML Developer'
+          url: ''
     design:
       columns: '2'
   - block: collection
