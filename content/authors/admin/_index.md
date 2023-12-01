@@ -30,22 +30,22 @@ bio: With a 15-year journey in Telecom and Retail, I've led a 10M+ client base a
 # Interests to show in About widget
 interests:
   - Team leadership
-  - Business Analysis & Insights
+  - Business analysis & insights
   - CRM, customer retention
   - Marketing strategy
   - Digital & offline marketing
   - Product management
-  - Large language models
+  - GenAI and LLMs
 
 # Education to show in About widget
 education:
   courses:
     - course: MBA in IT Management
       institution: International Institute of Management (MIM-Kyiv)
-      year: 2013
+      year: ''
     - course: MEng in Electrical Engineering
       institution: National Aviation University
-      year: 2002
+      year: ''
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
