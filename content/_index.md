@@ -107,7 +107,7 @@ sections:
           date_start: '2023-11-03'
           description: ''
           organization: Udemy
-          organization_logo: udemy
+          company_logo: udemy
           organization_url: https://www.udemy.com/
           title: LangChain- Develop LLM powered applications with LangChain
           url: ''
