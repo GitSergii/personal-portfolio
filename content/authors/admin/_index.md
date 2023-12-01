@@ -51,6 +51,8 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
   - name: Technical
+    color: '#7C15E6'
+    color_border: '#7C15E6'
     items:
       - name: Digital marketing, GA, Google Ads, Meta Ads
         description: ''
@@ -73,8 +75,8 @@ skills:
         icon: group-arrows-rotate
         icon_pack: fas
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#C1FF72'
+    color_border: '#C1FF72'
     items:
       - name: Hiking
         description: ''
