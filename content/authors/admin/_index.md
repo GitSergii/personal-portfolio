@@ -25,7 +25,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: With a 15-year journey in Telecom and Retail, I've led a 10M+ client base and driven over USD 400M+ in revenue. My passion for pioneering B2C and B2B strategies has guided dedicated teams to consistently exceed market expectations. Specializing in diverse marketing facets, including strategy, digital and offline marketing, CRM, pricing, and business intelligence, I'm on a mission to turn challenges into opportunities and maintain my career's fervor from day one.
+bio: Sergii G is a seasoned professional with a substantial background in the Telecom and Retail sectors, bringing a wealth of experience to the realms of marketing and business strategy. His career journey has been distinguished by outstanding accomplishments and a fervent commitment to data-driven decision-making, consumer-centric strategies, and effective team leadership. He is passionate about accelerating growth by unlocking the potential of data and AI.
 
 # Interests to show in About widget
 interests:
@@ -126,5 +126,5 @@ social:
 highlight_name: true
 ---
 
-Sergii G is a seasoned professional with a substantial background in the Telecom and Retail sectors, bringing a wealth of experience to the realms of marketing and business strategy. His career journey has been distinguished by outstanding accomplishments and a fervent commitment to data-driven decision-making, consumer-centric strategies, and effective team leadership.
+Sergii G is a seasoned professional with a substantial background in the Telecom and Retail sectors, bringing a wealth of experience to the realms of marketing and business strategy. His career journey has been distinguished by outstanding accomplishments and a fervent commitment to data-driven decision-making, consumer-centric strategies, and effective team leadership. He is passionate about accelerating growth by unlocking the potential of data and AI.
 {style="text-align: justify;"}
