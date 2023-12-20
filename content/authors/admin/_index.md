@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Sergii G
+title: Sergii Guliaiev
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Sergii
-last_name: G
+last_name: Guliaiev
 
 # Status emoji
 status:
@@ -25,7 +25,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sergii G is a seasoned professional with a substantial background in the Telecom and Retail sectors, bringing a wealth of experience to the realms of marketing and business strategy. His career journey has been distinguished by outstanding accomplishments and a fervent commitment to data-driven decision-making, consumer-centric strategies, and effective team leadership. He is passionate about accelerating growth by unlocking the potential of data and AI.
+bio: Sergii Guliaiev is a seasoned professional with a substantial background in the Telecom and Retail sectors, bringing a wealth of experience to the realms of marketing and business strategy. His career journey has been distinguished by outstanding accomplishments and a fervent commitment to data-driven decision-making, consumer-centric strategies, and effective team leadership. He is passionate about accelerating growth by unlocking the potential of data and AI.
 
 # Interests to show in About widget
 interests:
@@ -64,10 +64,10 @@ skills:
         percent: 100
         icon: magnifying-glass-chart
         icon_pack: fas
-      - name: SQL
+      - name: Azure AI, Vertex AI, OpenAI, LangChain
         description: ''
         percent: 70
-        icon: database
+        icon: brain
         icon_pack: fas
       - name: Salesforce, SAP Marketing, HubSpot, Outreach, Braze
         description: ''
@@ -126,5 +126,5 @@ social:
 highlight_name: true
 ---
 
-Sergii G is a seasoned professional with a substantial background in the Telecom and Retail sectors, bringing a wealth of experience to the realms of marketing and business strategy. His career journey has been distinguished by outstanding accomplishments and a fervent commitment to data-driven decision-making, consumer-centric strategies, and effective team leadership. He is passionate about accelerating growth by unlocking the potential of data and AI.
+Sergii Guliaiev is a seasoned professional with a substantial background in the Telecom and Retail sectors, bringing a wealth of experience to the realms of marketing and business strategy. His career journey has been distinguished by outstanding accomplishments and a fervent commitment to data-driven decision-making, consumer-centric strategies, and effective team leadership. He is passionate about accelerating growth by unlocking the potential of data and AI.
 {style="text-align: justify;"}
